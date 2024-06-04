@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+    margin-right: 450px;
+}
+.poster{
+    color: yellowgreen;
+    margin-left: 30%;
+    margin-top: 80px;
+    font-family: "Caveat", cursive;
+}
+.image{
+    border: 5px solid white;
+}
+p{
+    text-align: center;
+}
+h4{
+    margin-left: 165px;
+    font-size: 20px;
+}
